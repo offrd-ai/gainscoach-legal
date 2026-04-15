@@ -145,11 +145,16 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 ---
 
+---
+
 ## 14. Contact Us
 
-If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
+If you have questions, concerns, or requests regarding this Privacy Policy or your personal data:
 
 **GainsCoach**
 Email: info@elitefootball.net
 Phone: (636) 346-1371
 St. Louis, Missouri, USA
+
+Privacy Policy URL: https://offrd-ai.github.io/gainscoach-legal/privacy
+Terms of Service URL: https://offrd-ai.github.io/gainscoach-legal/terms
